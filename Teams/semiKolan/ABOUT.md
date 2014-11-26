@@ -1,13 +1,13 @@
 # Welcome to team SemiKolan's About Page...
 ## 
-### All the team members in our team are undergraduates at University of Moratuwa
+### We are a group of undergraduates studying at the Department of Computer Science and Engineering at University of Moratuwa
 
 
 This is our page
 ================
 
-Welcome to  semiKolan's ABOUT page.
-We are a group of passionate programmers from the beautiful island Sri Lanka. And we <3 hackathons.
+Welcome!
+We are SemiKolan and we are a group of passionate programmers from the beautiful island Sri Lanka who just put their name in just about every hackathon we come across! xP Can't hepl it.. We just <3 hackathons xD
 
 
 
